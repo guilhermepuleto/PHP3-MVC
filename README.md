@@ -1,4 +1,4 @@
-# PHP3-MVC
+# PHP3
 
 Descrição = Realizei os cursos de PHP da alura e postei os códigos sobre as atividades.
 
